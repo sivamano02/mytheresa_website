@@ -5,7 +5,10 @@ This project is created for the purpose of automation of mytheresa website using
 
 Tech Stack used: 1.cypress 2.javascript
 
-Features Implemented: 
+The Solution to section "Basics" and "Test Case Challenge" has been provided in the pdf document "mytheresa-qa-assesment_SivaramanManoharan.pdf" which has been included in this repository
+
+For "Automation Test Challenge" section below features are implemented,
+
 1. Test Case
 ● As a tester, I want to make sure no JavaScript errors when you visit
 https://www.mytheresa.com/en-de/men.html
